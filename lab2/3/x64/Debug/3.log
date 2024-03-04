@@ -1,0 +1,10 @@
+﻿  3.cpp
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(14,20): error C2872: 'cin': ambiguous symbol
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(8,10): message : could be 'std::ifstream cin'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iostream(39,75): message : or       'std::istream std::cin'
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(14,9): error C3861: 'getline': identifier not found
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(16,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(16,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(29,9): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(40,13): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+D:\ubb\anul1-sem2\Algoritmica grafelor\Laborator\lab2\3\3.cpp(43,9): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
